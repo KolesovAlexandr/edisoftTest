@@ -1,4 +1,4 @@
-package com.edisoft.repetionremover;
+package com.edisoft.repeatremover;
 
 import java.util.*;
 
